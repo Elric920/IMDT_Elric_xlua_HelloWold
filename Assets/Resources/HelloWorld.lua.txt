@@ -1,0 +1,4 @@
+function start()
+    print("lua start")
+    self:GetComponent("Text").text = "Hello World!"
+end
